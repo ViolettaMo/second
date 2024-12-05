@@ -1,0 +1,21 @@
+p{
+    color:red;
+}
+header{
+    background-color: gray; color: white; text-align: center; padding: 10px;
+} 
+a{
+    color: blue; text-decoration: none;
+}
+.phenomenon{
+    color: blue;
+}
+.phenomenon-description{
+    color:grey;
+    margin-left: 20px;
+    
+}
+.phenomenon-highlight{
+   color: yellow; 
+   font-weight: bold;
+}
